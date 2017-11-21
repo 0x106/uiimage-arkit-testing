@@ -5,3 +5,7 @@
 2. The hack is to convert each `UILabel` to a `UIImage`, and then render that instead.
 
 Relevant class is `ImageFromLabel`
+
+
+- see [here](https://stackoverflow.com/questions/47406334/uilabel-text-doesnt-appear-when-using-arkit) for my original SO question.
+- [this](https://stackoverflow.com/questions/11867152/how-to-create-an-image-from-uilabel) question describes how to generate the image from the label
